@@ -1,0 +1,10 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.*
+*.tfvars
+start.txt
+userdata.sh
+userdata.b64
+role-creds.json
+*.pem
