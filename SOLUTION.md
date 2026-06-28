@@ -5,8 +5,7 @@
 **Student Name:** Aniket Sharma
 **Course:** CCGC5501 Cloud Security
 **Challenge:** IAM Privilege Escalation by EC2
-**Flag Value:** `YOUR_FINAL_FLAG_HERE`
-**Forked GitHub Repository URL:** `YOUR_GITHUB_REPO_URL_HERE`
+**Forked GitHub Repository URL:** `https://github.com/securityAndUsability/ccgc5501-cloud-security-challenge-iam_privesc.git`
 
 ---
 
